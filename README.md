@@ -1,5 +1,6 @@
 # Backend Developer
-Hi, I'm Hyeok Lee
+Hi, I'm Hyeok Lee.
+
 I have written code and project descriptions for my small projects on GitHub, briefly documented in the README. In my Notion profile, I compile information about myself, including the technologies I use, and organize troubleshooting records while gaining development experience.
 
 ## Teck stack
