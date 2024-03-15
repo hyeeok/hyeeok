@@ -11,7 +11,6 @@ I have written code and project descriptions for my small projects on GitHub, br
 
 
 <div align="center">
-	<br>
 	Backend
 </div>
 <div align="center">
