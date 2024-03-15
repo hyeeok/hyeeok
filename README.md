@@ -1,5 +1,5 @@
 # Backend Developer
-Hi, my name is Lee Hyeok!
+Small but precious,
 
 ## Teck stack
 ### Backend
