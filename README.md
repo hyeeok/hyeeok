@@ -25,9 +25,9 @@ I have written code and project descriptions for my small projects on GitHub, br
 ### Database
 <div align="center">
 	<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" />
-	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
-	<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
-	<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3t&logoColor=white" />
+	<img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" />
+	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
 </div>
 
 ### Tool
