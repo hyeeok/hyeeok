@@ -1,7 +1,9 @@
 # Backend Developer
 Hi, I'm Hyeok Lee.
 
-I have written code and project descriptions for my small projects on GitHub, briefly documented in the README. In my Notion profile, I compile information about myself, including the technologies I use, and organize troubleshooting records while gaining development experience.
+I am organizing code for small projects and documenting them briefly in README files on GitHub. Additionally, I am keeping track of the technologies I study and troubleshooting records on my personal Notion page, which you can find at the following address.
+
+저는 작은 프로젝트들에 대한 코드를 정리하고 README에 간략하게 문서화를 한 Github, 그리고 공부한 기술들과 트러블 슈팅 기록을 아래에 주소의 개인 노션 페이지로 정리하고 있습니다.
 
 https://lace-theory-7b7.notion.site/7cfc4b143b764f3c860eb3095f524096?pvs=4
 
