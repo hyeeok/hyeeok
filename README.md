@@ -3,12 +3,6 @@ Hi, I'm Hyeok Lee.
 
 I have written code and project descriptions for my small projects on GitHub, briefly documented in the README. In my Notion profile, I compile information about myself, including the technologies I use, and organize troubleshooting records while gaining development experience.
 
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
-
 ## Teck stack
 ### Backend
 <div align="center">
@@ -16,6 +10,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 	<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 </div>
 <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 java
