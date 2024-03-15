@@ -1,5 +1,5 @@
 # Backend Developer
-Small but precious,
+Hi, I'm Hyeok Lee
 
 ## Teck stack
 ### Backend
