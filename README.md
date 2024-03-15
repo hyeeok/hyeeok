@@ -8,7 +8,9 @@ Teck stack
 </div>
 
 <div align="center">
-	<strong>backend</strong>
+	<strong>Backend</strong>
+</div>
+<div align="center">
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -18,7 +20,9 @@ Teck stack
 </div>
 
 <div align="center">
-	Frontend
+	<strong>Frontend</strong>
+</div>
+<div align="center">
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -26,7 +30,9 @@ Teck stack
 </div>
 
 <div align="center">
-	Database
+	<strong>Database</strong>
+</div>
+<div align="center">
 	<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" />
 	<img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" />
 	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white" />
@@ -34,6 +40,8 @@ Teck stack
 </div>
 
 <div align="center">
-	Tool
+	<strong>Tool</strong>
+</div>
+<div align="center">
 	<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
 </div>
