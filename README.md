@@ -37,7 +37,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 </div>
 
 <div align="center">
-	<div></div>
+	<br>
 	Database
 </div>
 <div align="center">
