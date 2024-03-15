@@ -12,6 +12,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 ## Teck stack
 ### Backend
 <div align="center">
+	### Backend
 	<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
