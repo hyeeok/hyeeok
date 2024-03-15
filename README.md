@@ -12,7 +12,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 ## Teck stack
 ### Backend
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://img.shields.io/badge/fastapi#009688?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/fastapi-#009688?style=flat&logo=Java&logoColor=white" />
 java
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 docker
