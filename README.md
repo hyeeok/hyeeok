@@ -30,3 +30,6 @@ I have written code and project descriptions for my small projects on GitHub, br
 
 ### Tool
 vscode
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlgur57@gmail.com&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=dlgur57@gmail.com&show_icons=true">
