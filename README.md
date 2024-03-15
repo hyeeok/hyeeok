@@ -6,9 +6,9 @@ I have written code and project descriptions for my small projects on GitHub, br
 <div align="center">
 	<strong>Tech Stack</strong>
 </div>
+<div></div>
 
 <div align="center">
-	<div></div>
 	<div></div>
 	Backend
 </div>
