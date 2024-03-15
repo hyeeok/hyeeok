@@ -3,6 +3,8 @@ Hi, I'm Hyeok Lee.
 
 I have written code and project descriptions for my small projects on GitHub, briefly documented in the README. In my Notion profile, I compile information about myself, including the technologies I use, and organize troubleshooting records while gaining development experience.
 
+https://lace-theory-7b7.notion.site/7cfc4b143b764f3c860eb3095f524096?pvs=4
+
 -----------------------------
 
 <div align="center">
