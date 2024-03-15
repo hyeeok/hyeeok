@@ -15,10 +15,12 @@ I have written code and project descriptions for my small projects on GitHub, br
 </div>
 
 ### Frontend
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-html
-css
+<div align="center">
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
+	<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
+	<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3t&logoColor=white" />
+</div>
 
 ### Database
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
