@@ -9,6 +9,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 
 <div align="center">
 	<div></div>
+	<div></div>
 	Backend
 </div>
 <div align="center">
@@ -22,7 +23,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 
 <div align="center">
 	<div></div>
-	<strong>Frontend</strong>
+	Frontend
 </div>
 <div align="center">
 	<div></div>
@@ -34,7 +35,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 
 <div align="center">
 	<div></div>
-	<strong>Database</strong>
+	Database
 </div>
 <div align="center">
 	<div></div>
@@ -46,7 +47,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 
 <div align="center">
 	<div></div>
-	<strong>Tool</strong>
+	Tool
 </div>
 <div align="center">
 	<div></div>
