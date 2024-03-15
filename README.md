@@ -6,7 +6,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 -----------------------------
 
 <div align="center">
-	<h2>Tech Stack</h2>
+	<h3>Tech Stack</h3>
 </div>
 
 
