@@ -15,9 +15,11 @@ I have written code and project descriptions for my small projects on GitHub, br
 <div align="center">
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
+	<div></div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+	<div></div>
 	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </div>
 
