@@ -58,3 +58,6 @@ I have written code and project descriptions for my small projects on GitHub, br
 	<br>
 	<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
 </div>
+-----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeok&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=hyeeok&show_icons=true">
