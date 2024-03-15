@@ -23,13 +23,18 @@ I have written code and project descriptions for my small projects on GitHub, br
 </div>
 
 ### Database
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+<div align="center">
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
+	<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
+	<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3t&logoColor=white" />
+</div>
 
 ### Tool
-vscode
+<div align="center">
+	<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeok&layout=compact"><br><br>
-
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeok&layout=compact"><br><br>
+</div>
