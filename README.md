@@ -10,10 +10,10 @@ I have written code and project descriptions for my small projects on GitHub, br
 
 <div align="center">
 	<br>
-	<br>
 	Backend
 </div>
 <div align="center">
+	<br>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 	<div></div>
@@ -29,7 +29,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 	Frontend
 </div>
 <div align="center">
-	<div></div>
+	<br>
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -41,7 +41,7 @@ I have written code and project descriptions for my small projects on GitHub, br
 	Database
 </div>
 <div align="center">
-	<div></div>
+	<br>
 	<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" />
 	<img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" />
 	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white" />
@@ -49,10 +49,10 @@ I have written code and project descriptions for my small projects on GitHub, br
 </div>
 
 <div align="center">
-	<div></div>
+	<br>
 	Tool
 </div>
 <div align="center">
-	<div></div>
+	<br>
 	<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
 </div>
