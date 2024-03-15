@@ -32,4 +32,4 @@ I have written code and project descriptions for my small projects on GitHub, br
 vscode
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeok&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=hyeeok&show_icons=true">
+
