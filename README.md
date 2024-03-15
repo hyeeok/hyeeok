@@ -6,10 +6,11 @@ I have written code and project descriptions for my small projects on GitHub, br
 <div align="center">
 	<strong>Tech Stack</strong>
 </div>
-<div></div>
+
 
 <div align="center">
-	<div></div>
+	<br>
+	<br>
 	Backend
 </div>
 <div align="center">
